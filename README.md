@@ -1,1 +1,1 @@
-# Digital House
+# React Front Example
